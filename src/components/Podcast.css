@@ -1,0 +1,17 @@
+.App{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-top: 92px;
+}
+
+.Comment{
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.Image{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding-top: 20%;
+    text-align: center;
+}

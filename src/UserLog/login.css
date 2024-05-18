@@ -1,0 +1,83 @@
+/* login.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+.container {
+  width: 100%;
+  max-width: 400px;
+  margin: 100px auto;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  background-color: #333;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.LoginHeading{
+  text-align: center;
+}
+
+.EmailBox,
+.PasswordBox {
+  width: 80%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  background-color: #555;
+  color: #fff;
+}
+
+.submitButton {
+  width: 85%;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 3%;
+}
+
+.submitButton:hover {
+  background-color: #0056b3;
+  
+}
+
+.Information {
+  font-size: 14px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.SignUpLink {
+  color: #fff;
+  text-decoration: none;
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.SignUpLink:hover {
+  text-decoration: underline;
+  color: #007bff;
+}
