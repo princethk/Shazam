@@ -5,7 +5,7 @@
 The application will allow users to browse, manage, and discover music, incorporating user authentication and music management features. Key aspects include efficient state management, secure user authentication, responsive design, and thorough testing to ensure a seamless user experience.
 
 ## Visit the website:
-   shazam-five.vercel.app
+  # shazam-five.vercel.app
 
 ## Features
 
